@@ -1,0 +1,33 @@
+{
+    "navbar":{
+        "theme_dark": true,
+        "search": true,
+        "expand": "md",
+        "brand": "Navbar-1",
+        "items": [
+            {
+                "name": "Link1",
+                "href": "/link1"
+            },
+            {
+                "name": "Link2",
+                "href": "/link2"
+            },
+            [
+                "dropdown",
+                {
+                    "name": "drop1",
+                    "href": "/drop1"
+                },
+                {
+                    "name": "drop1",
+                    "href": "/drop1"
+                },
+                {
+                    "name": "drop1",
+                    "href": "/drop1"
+                }
+            ]
+        ]
+    }
+}
