@@ -1,37 +1,32 @@
 {
-    "navbar": {
-        "theme_dark": false,
+    "$navbar": {
+        "brand": "Navbar-1",
         "expand": "md",
-        "brand": "Navbar-2",
+        "search": true,
+        "search_btn": "hide",
+        "theme" : "dark",
         "items": [
             {
-                "name": "Link1",
-                "href": "/link1"
+                "name": "About",
+                "href": "/about"
             },
             {
-                "name": "Link2",
-                "href": "/link2"
+                "name": "Items",
+                "href": "/items"
             },
-            [
-                "dropdown",
-                {
-                    "name": "drop1",
-                    "href": "/drop1"
-                },
-                {
-                    "name": "drop1",
-                    "href": "/drop1"
-                },
-                {
-                    "name": "drop1",
-                    "href": "/drop1"
-                }
-            ]
-        ],
-        "login": true,
-        "extra": {
-            "name": "Cart",
-            "href": "#cart"
-        }
+            {
+                "name": "dropdown",
+                "drop": [
+                    {
+                        "name": "drop-1",
+                        "href": "/drop1"
+                    },
+                    {
+                        "name": "drop-2",
+                        "href": "/drop2"
+                    }
+                ]
+            }
+        ]
     }
 }

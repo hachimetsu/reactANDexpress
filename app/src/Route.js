@@ -7,6 +7,7 @@ import {
 import Homepage  from "./pages/Homepage";
 import Aboutpage  from "./pages/Aboutpage";
 import Itempage  from "./pages/Itempage";
+import Errorpage  from "./pages/Errorpage";
 const router = createBrowserRouter([
     {
         path: "/",
@@ -19,6 +20,10 @@ const router = createBrowserRouter([
     {
         path: "/items",
         element: <Itempage />
+    },
+    {
+        path: "*",
+        element: <Errorpage />
     }
 ]);
 

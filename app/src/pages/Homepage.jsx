@@ -1,7 +1,9 @@
 import * as React from 'react'
-
+import SlideShow from '../components/slideshow/SlideShow'
+import Accordion from '../components/accordion/Accordion'
 export default function Homepage(){
     return <>
-        <div className="text-center">This is Homepage ...</div>
+        <SlideShow />
+        <Accordion />
     </>
 }
