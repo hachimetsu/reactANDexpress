@@ -1,0 +1,25 @@
+{
+    "$slideshow": [
+        {
+            "src": "https://imgs.search.brave.com/5HQBrsaMCKrNxqnMNDA16Xxg7QkzT5pZq0nyHXo2I2I/rs:fit:759:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5h/dnhodFFxcjVGb3Vi/R2pxNHNJWHVnSGFF/byZwaWQ9QXBp",
+            "caption": {
+                "title": "First slide label",
+                "para": "1 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod voluptas atque odio aliquid explicabo deserunt ea eveniet accusamus. Quas repellendus iusto porro vitae cupiditate, adipisci animi reprehenderit nemo sunt velit!"
+            }
+        },
+        {
+            "src": "https://imgs.search.brave.com/QBULfTm15_suunP_IqgpzrZZ2sHgX_3Ea2ocdM1RpPQ/rs:fit:759:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4w/a3UxQXZVb19fLW9o/eEg0RXFUWE9BSGFF/byZwaWQ9QXBp",
+            "caption": {
+                "title": "Second slide label",
+                "para": "2 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod voluptas atque odio aliquid explicabo deserunt ea eveniet accusamus. Quas repellendus iusto porro vitae cupiditate, adipisci animi reprehenderit nemo sunt velit!"
+            }
+        },
+        {
+            "src": "https://imgs.search.brave.com/8BCRXokxth8-cCPHnq5gTfjoCN2Ke9sLuz4yXyZnbI0/rs:fit:711:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5v/dElQZjBuRDZTeHkz/SGNBaFFKbkdBSGFF/OCZwaWQ9QXBp",
+            "caption": {
+                "title": "Third slide label",
+                "para": "3 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod voluptas atque odio aliquid explicabo deserunt ea eveniet accusamus. Quas repellendus iusto porro vitae cupiditate, adipisci animi reprehenderit nemo sunt velit!"
+            }
+        }
+    ]
+}

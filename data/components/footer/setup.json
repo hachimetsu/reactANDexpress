@@ -1,0 +1,81 @@
+{
+    "$footer":{
+        "site": "website.com",
+        "detail_para": "Here you can use rows and columns to organize your footer content. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "social": [
+            {
+                "class": "fab fa-facebook-f",
+                "href": "#!"
+            },
+            {
+                "class": "fab fa-twitter",
+                "href": "#!"
+            },
+            {
+                "class": "fab fa-google",
+                "href": "#!"
+            },
+            {
+                "class": "fab fa-instagram",
+                "href": "#!"
+            },
+            {
+                "class": "fab fa-linkedin",
+                "href": "#!"
+            },
+            {
+                "class": "fab fa-github",
+                "href": "#!"
+            }
+        ],
+        "products": [
+            {
+                "name": "Phones",
+                "href": "/phones"
+            },
+            {
+                "name": "Earphones",
+                "href": "/earphones"
+            },
+            {
+                "name": "Headsets",
+                "href": "/headsets"
+            },
+            {
+                "name": "Earbuds",
+                "href": "/earbuds"
+            }
+        ],
+        "links": [
+            {
+                "name": "Home",
+                "href": "/"
+            },
+            {
+                "name": "About",
+                "href": "/about"
+            },
+            {
+                "name": "Email",
+                "href": "#!"
+            }
+        ],
+        "contacts": [
+            {
+                "class": "fas fa-home me-3",
+                "detail": "Address none",
+                "href": ""
+            },
+            {
+                "class": "fas fa-envelope me-3",
+                "detail": "Email here !",
+                "href": ""
+            },
+            {
+                "class": "fas fa-phone me-3",
+                "detail": "+91 123 456 7890",
+                "href": ""
+            }
+        ]
+    }
+}
